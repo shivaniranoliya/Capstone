@@ -1,4 +1,3 @@
-Here's a sample README file for running the frontend and backend code:
 
 ---
 
@@ -73,4 +72,3 @@ Include contributing guidelines here if applicable.
 
 ---
 
-Feel free to modify this template based on the specific needs and structure of your project.
